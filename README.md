@@ -1,7 +1,7 @@
 ## Hi there, I am Paolo 👋
 
-🚀 **Tech enthusiast, problem solver, and open-source advocate.**  
-Passionate about automation 🤖, monitoring 📊, and making things work better ⚡.  
+🚀 **Tech enthusiast, problem solver and open-source advocate.**  
+Passionate about automation 🤖, monitoring 📊 and making things work better ⚡.  
 Always exploring new technologies to improve efficiency and simplify complexity.  
 
 💡 Curious mind, always learning.  
