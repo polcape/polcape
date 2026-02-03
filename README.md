@@ -10,7 +10,7 @@ Always exploring new technologies to improve efficiency and simplify complexity.
 
 Find out more at [ca.pe.it](https://www.ca.pe.it/?utm_source=github) 🌐  
 
-![Polcape's GitHub stats](https://github-readme-stats.vercel.app/api?username=polcape&show_icons=true&theme=transparent)
+![Polcape's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=polcape&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
