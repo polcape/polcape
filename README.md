@@ -24,6 +24,7 @@ Find out more at [ca.pe.it](https://www.ca.pe.it/?utm_source=github) 🌐
   ##
  
 <div> 
+  <a href="https://me.ca.pe.it" target="_blank"><img src="https://img.shields.io/badge/-Linktree-%2343E55E?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/polcape" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cape88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/polcape" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
